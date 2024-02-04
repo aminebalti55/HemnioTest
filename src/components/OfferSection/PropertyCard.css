@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+    .card {
+        width: 300px;
+        margin: 2rem;
+        border-radius: 20px;
+    }
+
+    .card h3 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700; 
+    }
+
+    .card span {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400; 
+    }
+
+    .heart-icon {
+        transition: color 0.3s ease;
+    }
